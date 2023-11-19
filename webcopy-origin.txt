@@ -1,0 +1,52 @@
+Uri: https://ayang.feeldream.repl.co/play.html
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\play.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\npm\sweetalert2@11.0.19\dist\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://feeldreams.github.io/nordic.jpeg
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\nordic.jpeg
+Content Type: image/jpeg
+
+Uri: https://feeldreams.github.io/peach13.gif
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\peach13.gif
+Content Type: image/gif
+
+Uri: https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v25/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHTQ.ttf
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\s\dancingscript\v25\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHTQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQXME.ttf
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQXME.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME.ttf
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/4f3ce16e3e.js
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\4f3ce16e3e.js
+Content Type: text/javascript
+
+Uri: https://rayyscoding.github.io/envelope.png
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\envelope.png
+Content Type: image/png
+
+Uri: https://sinkronin.github.io/peach10.gif
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\peach10.gif
+Content Type: image/gif
+
+Uri: https://sinkronin.github.io/peach9.gif
+File Name: C:\Downloaded Web Sites\ayang.feeldream.repl.co\peach9.gif
+Content Type: image/gif
+
